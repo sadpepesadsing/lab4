@@ -1,6 +1,7 @@
 import telebot
 from telebot import types
 
+from bot_func import amount_msg
 from Currency import find_currency
 
 token = "7710098454:AAGn-yU94cI96EoFCtieXGJLilQ-F5spWns"
